@@ -62,6 +62,7 @@ public class Flipkart {
 		{
 			System.out.println("Oops!! Your Order for "+Name_Of_Product+"is failed ");
 		}
+		System.out.println("SUCCESS");
 		driver.quit();
 		driver.close();
 		
